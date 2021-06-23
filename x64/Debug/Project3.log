@@ -1,0 +1,3 @@
+﻿  Soороurce.cpp
+C:\Users\User\source\repos\Project3\Soороurce.cpp(33,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Project3.vcxproj -> C:\Users\User\source\repos\Project3\x64\Debug\Project3.exe

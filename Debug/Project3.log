@@ -1,0 +1,3 @@
+﻿  Soороurce.cpp
+C:\Users\User\source\repos\Project3\Soороurce.cpp(33,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+LINK : fatal error LNK1105: не удается закрыть файл "C:\Users\User\source\repos\Project3\Debug\Project3.exe"
